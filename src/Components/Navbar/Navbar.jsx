@@ -6,7 +6,7 @@ export default function Navbar() {
             >
                 {/* Navbar Logo */}
                 <div>
-                    <img src="src/assets/image/favicon.svg" className="h-14" />
+                    <img src="/image/favicon.svg" className="h-14" />
                 </div>
 
                 {/* Navmenu */}
